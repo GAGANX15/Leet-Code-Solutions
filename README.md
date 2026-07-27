@@ -56,11 +56,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/0119-pascals-triangle-ii) |
 | [0136-single-number](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/0169-majority-element) |
 | [1260-shift-2d-grid](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/1260-shift-2d-grid) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0169-majority-element](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/0190-reverse-bits) |
 ## Binary Search Tree
 |  |
@@ -101,4 +103,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0168-excel-sheet-column-title](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/0168-excel-sheet-column-title) |
+## Hash Table
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/0169-majority-element) |
+## Sorting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
