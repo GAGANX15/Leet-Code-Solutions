@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/0119-pascals-triangle-ii) |
 | [0136-single-number](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/0217-contains-duplicate) |
 | [1260-shift-2d-grid](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/1260-shift-2d-grid) |
 ## Divide and Conquer
 |  |
@@ -113,10 +114,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/0205-isomorphic-strings) |
+| [0217-contains-duplicate](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/0217-contains-duplicate) |
 ## Sorting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/0217-contains-duplicate) |
 ## Counting
 |  |
 | ------- |
