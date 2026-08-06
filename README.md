@@ -96,6 +96,7 @@ Every problem gets its own folder named `<number>-<slug>`, containing:
 | [0217-contains-duplicate](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/0217-contains-duplicate) |
 | [0228-summary-ranges](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/0228-summary-ranges) |
 | [1260-shift-2d-grid](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/1260-shift-2d-grid) |
+| [3940-limit-occurrences-in-sorted-array](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/3940-limit-occurrences-in-sorted-array) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -177,6 +178,10 @@ Every problem gets its own folder named `<number>-<slug>`, containing:
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/0225-implement-stack-using-queues) |
+## Two Pointers
+|  |
+| ------- |
+| [3940-limit-occurrences-in-sorted-array](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/3940-limit-occurrences-in-sorted-array) |
 <!---LeetCode Topics End-->
 
 ## Sync
