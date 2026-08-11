@@ -53,6 +53,7 @@ Every problem gets its own folder named `<number>-<slug>`, containing:
 | [0112-path-sum](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/0257-binary-tree-paths) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -64,6 +65,7 @@ Every problem gets its own folder named `<number>-<slug>`, containing:
 | [0112-path-sum](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/0257-binary-tree-paths) |
 ## Binary Tree
 |  |
 | ------- |
@@ -76,6 +78,7 @@ Every problem gets its own folder named `<number>-<slug>`, containing:
 | [0112-path-sum](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/0257-binary-tree-paths) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -119,6 +122,7 @@ Every problem gets its own folder named `<number>-<slug>`, containing:
 | [0168-excel-sheet-column-title](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/0205-isomorphic-strings) |
+| [0257-binary-tree-paths](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/0257-binary-tree-paths) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Greedy
 |  |
@@ -182,6 +186,10 @@ Every problem gets its own folder named `<number>-<slug>`, containing:
 |  |
 | ------- |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/3940-limit-occurrences-in-sorted-array) |
+## Backtracking
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
 
 ## Sync
