@@ -141,6 +141,7 @@ Every problem gets its own folder named `<number>-<slug>`, containing:
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/0258-add-digits) |
 | [1260-shift-2d-grid](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/1260-shift-2d-grid) |
 ## Bit Manipulation
 |  |
@@ -153,6 +154,7 @@ Every problem gets its own folder named `<number>-<slug>`, containing:
 | ------- |
 | [0168-excel-sheet-column-title](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/0171-excel-sheet-column-number) |
+| [0258-add-digits](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/0263-ugly-number) |
 ## Hash Table
 |  |
@@ -193,6 +195,10 @@ Every problem gets its own folder named `<number>-<slug>`, containing:
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/0257-binary-tree-paths) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
 
 ## Sync
