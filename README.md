@@ -91,6 +91,7 @@ Every problem gets its own folder named `<number>-<slug>`, containing:
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/0011-container-with-most-water) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/0119-pascals-triangle-ii) |
@@ -129,6 +130,7 @@ Every problem gets its own folder named `<number>-<slug>`, containing:
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/0011-container-with-most-water) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Monotonic Stack
 |  |
@@ -191,6 +193,7 @@ Every problem gets its own folder named `<number>-<slug>`, containing:
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/0011-container-with-most-water) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/3940-limit-occurrences-in-sorted-array) |
 ## Backtracking
 |  |
