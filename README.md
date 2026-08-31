@@ -179,6 +179,7 @@ Every problem gets its own folder named `<number>-<slug>`, containing:
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0203-remove-linked-list-elements](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/0203-remove-linked-list-elements) |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Recursion
 |  |
 | ------- |
