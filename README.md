@@ -88,6 +88,7 @@ Every problem gets its own folder named `<number>-<slug>`, containing:
 | [0111-minimum-depth-of-binary-tree](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/0226-invert-binary-tree) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Array
 |  |
 | ------- |
@@ -101,6 +102,7 @@ Every problem gets its own folder named `<number>-<slug>`, containing:
 | [0228-summary-ranges](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/0228-summary-ranges) |
 | [0704-binary-search](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/0704-binary-search) |
 | [1260-shift-2d-grid](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/1260-shift-2d-grid) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/3940-limit-occurrences-in-sorted-array) |
 ## Divide and Conquer
 |  |
@@ -140,6 +142,7 @@ Every problem gets its own folder named `<number>-<slug>`, containing:
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/1260-shift-2d-grid) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Simulation
 |  |
 | ------- |
@@ -151,6 +154,7 @@ Every problem gets its own folder named `<number>-<slug>`, containing:
 | [0136-single-number](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/0191-number-of-1-bits) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Math
 |  |
 | ------- |
@@ -165,6 +169,7 @@ Every problem gets its own folder named `<number>-<slug>`, containing:
 | [0169-majority-element](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/0217-contains-duplicate) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Sorting
 |  |
 | ------- |
