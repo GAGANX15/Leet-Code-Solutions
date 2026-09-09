@@ -165,6 +165,7 @@ Every problem gets its own folder named `<number>-<slug>`, containing:
 | [0258-add-digits](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/0263-ugly-number) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3871-count-commas-in-range-ii](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/3871-count-commas-in-range-ii) |
 ## Hash Table
 |  |
 | ------- |
