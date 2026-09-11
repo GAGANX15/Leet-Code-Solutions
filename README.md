@@ -101,6 +101,7 @@ Every problem gets its own folder named `<number>-<slug>`, containing:
 | [0217-contains-duplicate](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/0217-contains-duplicate) |
 | [0228-summary-ranges](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/0228-summary-ranges) |
 | [0303-range-sum-query-immutable](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/0303-range-sum-query-immutable) |
+| [0560-subarray-sum-equals-k](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/0704-binary-search) |
 | [1260-shift-2d-grid](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/1260-shift-2d-grid) |
 | [1480-running-sum-of-1d-array](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/1480-running-sum-of-1d-array) |
@@ -172,6 +173,7 @@ Every problem gets its own folder named `<number>-<slug>`, containing:
 | [0169-majority-element](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/0217-contains-duplicate) |
+| [0560-subarray-sum-equals-k](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Sorting
 |  |
@@ -218,6 +220,7 @@ Every problem gets its own folder named `<number>-<slug>`, containing:
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/0303-range-sum-query-immutable) |
+| [0560-subarray-sum-equals-k](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1480-running-sum-of-1d-array](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
 
