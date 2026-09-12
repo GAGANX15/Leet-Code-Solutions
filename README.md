@@ -106,6 +106,7 @@ Every problem gets its own folder named `<number>-<slug>`, containing:
 | [1260-shift-2d-grid](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/1260-shift-2d-grid) |
 | [1480-running-sum-of-1d-array](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3875-construct-uniform-parity-array-i](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/3940-limit-occurrences-in-sorted-array) |
 ## Divide and Conquer
 |  |
@@ -167,6 +168,7 @@ Every problem gets its own folder named `<number>-<slug>`, containing:
 | [0263-ugly-number](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/0263-ugly-number) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3871-count-commas-in-range-ii](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/3871-count-commas-in-range-ii) |
+| [3875-construct-uniform-parity-array-i](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
 |  |
 | ------- |
