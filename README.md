@@ -103,6 +103,7 @@ Every problem gets its own folder named `<number>-<slug>`, containing:
 | [0303-range-sum-query-immutable](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/0704-binary-search) |
+| [0835-image-overlap](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/0835-image-overlap) |
 | [1260-shift-2d-grid](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/1260-shift-2d-grid) |
 | [1480-running-sum-of-1d-array](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -145,6 +146,7 @@ Every problem gets its own folder named `<number>-<slug>`, containing:
 ## Matrix
 |  |
 | ------- |
+| [0835-image-overlap](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/0835-image-overlap) |
 | [1260-shift-2d-grid](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/1260-shift-2d-grid) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Simulation
