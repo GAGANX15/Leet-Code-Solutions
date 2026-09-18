@@ -106,6 +106,7 @@ Every problem gets its own folder named `<number>-<slug>`, containing:
 | [0704-binary-search](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/0704-binary-search) |
 | [0835-image-overlap](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/0835-image-overlap) |
 | [1260-shift-2d-grid](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/1260-shift-2d-grid) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1480-running-sum-of-1d-array](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3875-construct-uniform-parity-array-i](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
@@ -122,6 +123,7 @@ Every problem gets its own folder named `<number>-<slug>`, containing:
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0704-binary-search](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/0704-binary-search) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -149,6 +151,7 @@ Every problem gets its own folder named `<number>-<slug>`, containing:
 | ------- |
 | [0835-image-overlap](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/0835-image-overlap) |
 | [1260-shift-2d-grid](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/1260-shift-2d-grid) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Simulation
 |  |
