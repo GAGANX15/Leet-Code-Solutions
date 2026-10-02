@@ -128,12 +128,14 @@ Every problem gets its own folder named `<number>-<slug>`, containing:
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/0022-generate-parentheses) |
 | [0118-pascals-triangle](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/0119-pascals-triangle-ii) |
 | [3524-find-x-value-of-array-i](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/3524-find-x-value-of-array-i) |
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/0022-generate-parentheses) |
 | [0168-excel-sheet-column-title](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/0205-isomorphic-strings) |
@@ -225,6 +227,7 @@ Every problem gets its own folder named `<number>-<slug>`, containing:
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/0022-generate-parentheses) |
 | [0257-binary-tree-paths](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/0257-binary-tree-paths) |
 ## Number Theory
 |  |
@@ -241,6 +244,10 @@ Every problem gets its own folder named `<number>-<slug>`, containing:
 |  |
 | ------- |
 | [1401-circle-and-rectangle-overlapping](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/1401-circle-and-rectangle-overlapping) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
 
 ## Sync
