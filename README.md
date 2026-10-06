@@ -40,6 +40,7 @@ Every problem gets its own folder named `<number>-<slug>`, containing:
 | [0094-binary-tree-inorder-traversal](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/0225-implement-stack-using-queues) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Tree
 |  |
@@ -140,12 +141,14 @@ Every problem gets its own folder named `<number>-<slug>`, containing:
 | [0171-excel-sheet-column-number](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/0205-isomorphic-strings) |
 | [0257-binary-tree-paths](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/0257-binary-tree-paths) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3498-reverse-degree-of-a-string](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/0011-container-with-most-water) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Monotonic Stack
 |  |
@@ -248,6 +251,7 @@ Every problem gets its own folder named `<number>-<slug>`, containing:
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/0022-generate-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->
 
 ## Sync
