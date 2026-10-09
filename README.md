@@ -125,6 +125,7 @@ Every problem gets its own folder named `<number>-<slug>`, containing:
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0441-arranging-coins](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/0441-arranging-coins) |
 | [0704-binary-search](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/0704-binary-search) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Dynamic Programming
@@ -183,6 +184,7 @@ Every problem gets its own folder named `<number>-<slug>`, containing:
 | [0171-excel-sheet-column-number](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/0171-excel-sheet-column-number) |
 | [0258-add-digits](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/0263-ugly-number) |
+| [0441-arranging-coins](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/0441-arranging-coins) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/1401-circle-and-rectangle-overlapping) |
 | [3524-find-x-value-of-array-i](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/3524-find-x-value-of-array-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
