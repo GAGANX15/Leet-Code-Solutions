@@ -43,6 +43,7 @@ Every problem gets its own folder named `<number>-<slug>`, containing:
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Tree
 |  |
 | ------- |
@@ -146,6 +147,7 @@ Every problem gets its own folder named `<number>-<slug>`, containing:
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Greedy
 |  |
@@ -153,6 +155,7 @@ Every problem gets its own folder named `<number>-<slug>`, containing:
 | [0011-container-with-most-water](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/0011-container-with-most-water) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -257,6 +260,7 @@ Every problem gets its own folder named `<number>-<slug>`, containing:
 | [0022-generate-parentheses](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/0022-generate-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/1021-remove-outermost-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 <!---LeetCode Topics End-->
 
 ## Sync
