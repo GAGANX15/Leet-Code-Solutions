@@ -111,6 +111,7 @@ Every problem gets its own folder named `<number>-<slug>`, containing:
 | [1260-shift-2d-grid](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/1260-shift-2d-grid) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1480-running-sum-of-1d-array](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/1480-running-sum-of-1d-array) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3524-find-x-value-of-array-i](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/3524-find-x-value-of-array-i) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3875-construct-uniform-parity-array-i](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
@@ -261,6 +262,10 @@ Every problem gets its own folder named `<number>-<slug>`, containing:
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
 
 ## Sync
