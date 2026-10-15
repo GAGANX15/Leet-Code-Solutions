@@ -113,6 +113,7 @@ Every problem gets its own folder named `<number>-<slug>`, containing:
 | [1480-running-sum-of-1d-array](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3524-find-x-value-of-array-i](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/3524-find-x-value-of-array-i) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3875-construct-uniform-parity-array-i](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
@@ -207,6 +208,7 @@ Every problem gets its own folder named `<number>-<slug>`, containing:
 | [0217-contains-duplicate](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/0217-contains-duplicate) |
 | [0560-subarray-sum-equals-k](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Sorting
 |  |
@@ -272,6 +274,14 @@ Every problem gets its own folder named `<number>-<slug>`, containing:
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Segment Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
 
 ## Sync
