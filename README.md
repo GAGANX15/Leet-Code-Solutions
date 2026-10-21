@@ -155,6 +155,7 @@ Every problem gets its own folder named `<number>-<slug>`, containing:
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/3498-reverse-degree-of-a-string) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Greedy
 |  |
 | ------- |
