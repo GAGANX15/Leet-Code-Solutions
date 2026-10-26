@@ -44,6 +44,7 @@ Every problem gets its own folder named `<number>-<slug>`, containing:
 | [1021-remove-outermost-parentheses](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [3834-merge-adjacent-equal-elements](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/3834-merge-adjacent-equal-elements) |
 ## Tree
 |  |
 | ------- |
@@ -117,6 +118,7 @@ Every problem gets its own folder named `<number>-<slug>`, containing:
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3524-find-x-value-of-array-i](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/3524-find-x-value-of-array-i) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3834-merge-adjacent-equal-elements](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/3834-merge-adjacent-equal-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3886-sum-of-sortable-integers](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/3886-sum-of-sortable-integers) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/3940-limit-occurrences-in-sorted-array) |
@@ -182,6 +184,7 @@ Every problem gets its own folder named `<number>-<slug>`, containing:
 | [0258-add-digits](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/0258-add-digits) |
 | [1260-shift-2d-grid](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/1260-shift-2d-grid) |
 | [3498-reverse-degree-of-a-string](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/3498-reverse-degree-of-a-string) |
+| [3834-merge-adjacent-equal-elements](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/3834-merge-adjacent-equal-elements) |
 ## Bit Manipulation
 |  |
 | ------- |
