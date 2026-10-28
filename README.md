@@ -120,6 +120,7 @@ Every problem gets its own folder named `<number>-<slug>`, containing:
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3834-merge-adjacent-equal-elements](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/3834-merge-adjacent-equal-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3886-sum-of-sortable-integers](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/3886-sum-of-sortable-integers) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/3940-limit-occurrences-in-sorted-array) |
 ## Divide and Conquer
@@ -144,6 +145,7 @@ Every problem gets its own folder named `<number>-<slug>`, containing:
 | [0118-pascals-triangle](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/0119-pascals-triangle-ii) |
 | [3524-find-x-value-of-array-i](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/3524-find-x-value-of-array-i) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## String
 |  |
 | ------- |
@@ -178,6 +180,7 @@ Every problem gets its own folder named `<number>-<slug>`, containing:
 | [1260-shift-2d-grid](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/1260-shift-2d-grid) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Simulation
 |  |
 | ------- |
@@ -193,6 +196,7 @@ Every problem gets its own folder named `<number>-<slug>`, containing:
 | [0191-number-of-1-bits](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/0191-number-of-1-bits) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Math
 |  |
 | ------- |
