@@ -58,6 +58,7 @@ Every problem gets its own folder named `<number>-<slug>`, containing:
 | [0144-binary-tree-preorder-traversal](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/0257-binary-tree-paths) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -70,6 +71,7 @@ Every problem gets its own folder named `<number>-<slug>`, containing:
 | [0144-binary-tree-preorder-traversal](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/0257-binary-tree-paths) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -119,6 +121,7 @@ Every problem gets its own folder named `<number>-<slug>`, containing:
 | [3524-find-x-value-of-array-i](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/3524-find-x-value-of-array-i) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3834-merge-adjacent-equal-elements](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/3834-merge-adjacent-equal-elements) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3875-construct-uniform-parity-array-i](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3886-sum-of-sortable-integers](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/3886-sum-of-sortable-integers) |
@@ -130,6 +133,7 @@ Every problem gets its own folder named `<number>-<slug>`, containing:
 | [0169-majority-element](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/0191-number-of-1-bits) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -159,6 +163,7 @@ Every problem gets its own folder named `<number>-<slug>`, containing:
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/3498-reverse-degree-of-a-string) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Greedy
 |  |
@@ -196,6 +201,7 @@ Every problem gets its own folder named `<number>-<slug>`, containing:
 | [0191-number-of-1-bits](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/0191-number-of-1-bits) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Math
 |  |
@@ -293,10 +299,12 @@ Every problem gets its own folder named `<number>-<slug>`, containing:
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Segment Tree
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 <!---LeetCode Topics End-->
 
 ## Sync
