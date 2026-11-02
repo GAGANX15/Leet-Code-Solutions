@@ -108,6 +108,7 @@ Every problem gets its own folder named `<number>-<slug>`, containing:
 | [0228-summary-ranges](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/0303-range-sum-query-immutable) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/0704-binary-search) |
 | [0835-image-overlap](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/0835-image-overlap) |
@@ -212,6 +213,7 @@ Every problem gets its own folder named `<number>-<slug>`, containing:
 | [0258-add-digits](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/0263-ugly-number) |
 | [0441-arranging-coins](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/0441-arranging-coins) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/1401-circle-and-rectangle-overlapping) |
 | [3524-find-x-value-of-array-i](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/3524-find-x-value-of-array-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -234,6 +236,7 @@ Every problem gets its own folder named `<number>-<slug>`, containing:
 | ------- |
 | [0169-majority-element](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/0217-contains-duplicate) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3886-sum-of-sortable-integers](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/3886-sum-of-sortable-integers) |
 ## Counting
