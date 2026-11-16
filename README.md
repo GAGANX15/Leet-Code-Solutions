@@ -40,6 +40,7 @@ Every problem gets its own folder named `<number>-<slug>`, containing:
 | [0094-binary-tree-inorder-traversal](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/0225-implement-stack-using-queues) |
+| [0739-daily-temperatures](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/0739-daily-temperatures) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -111,6 +112,7 @@ Every problem gets its own folder named `<number>-<slug>`, containing:
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/0704-binary-search) |
+| [0739-daily-temperatures](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/0739-daily-temperatures) |
 | [0835-image-overlap](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/0835-image-overlap) |
 | [1260-shift-2d-grid](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/1260-shift-2d-grid) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -179,6 +181,7 @@ Every problem gets its own folder named `<number>-<slug>`, containing:
 ## Monotonic Stack
 |  |
 | ------- |
+| [0739-daily-temperatures](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/0739-daily-temperatures) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Matrix
 |  |
