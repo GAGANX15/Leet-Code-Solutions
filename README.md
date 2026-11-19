@@ -118,6 +118,7 @@ Every problem gets its own folder named `<number>-<slug>`, containing:
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1480-running-sum-of-1d-array](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -177,6 +178,7 @@ Every problem gets its own folder named `<number>-<slug>`, containing:
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Monotonic Stack
@@ -242,6 +244,7 @@ Every problem gets its own folder named `<number>-<slug>`, containing:
 | [0217-contains-duplicate](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/0217-contains-duplicate) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3886-sum-of-sortable-integers](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/3886-sum-of-sortable-integers) |
 ## Counting
 |  |
