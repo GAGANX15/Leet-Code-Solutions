@@ -169,6 +169,7 @@ Every problem gets its own folder named `<number>-<slug>`, containing:
 | [1021-remove-outermost-parentheses](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3498-reverse-degree-of-a-string](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/3498-reverse-degree-of-a-string) |
