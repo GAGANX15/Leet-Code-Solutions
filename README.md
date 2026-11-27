@@ -135,6 +135,7 @@ Every problem gets its own folder named `<number>-<slug>`, containing:
 | [3882-minimum-xor-path-in-a-grid](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3886-sum-of-sortable-integers](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/3886-sum-of-sortable-integers) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/3940-limit-occurrences-in-sorted-array) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -159,6 +160,7 @@ Every problem gets its own folder named `<number>-<slug>`, containing:
 | [0119-pascals-triangle-ii](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/0119-pascals-triangle-ii) |
 | [3524-find-x-value-of-array-i](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/3524-find-x-value-of-array-i) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## String
 |  |
 | ------- |
@@ -188,6 +190,7 @@ Every problem gets its own folder named `<number>-<slug>`, containing:
 | [2567-minimum-score-by-changing-two-elements](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/3723-maximize-sum-of-squares-of-digits) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Monotonic Stack
 |  |
 | ------- |
