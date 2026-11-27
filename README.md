@@ -113,6 +113,7 @@ Every problem gets its own folder named `<number>-<slug>`, containing:
 | [0303-range-sum-query-immutable](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0643-maximum-average-subarray-i](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/0739-daily-temperatures) |
 | [0835-image-overlap](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/0835-image-overlap) |
@@ -342,6 +343,10 @@ Every problem gets its own folder named `<number>-<slug>`, containing:
 |  |
 | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/1352-product-of-the-last-k-numbers) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/GAGANX15/Leet-Code-Solutions/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
 
 ## Sync
